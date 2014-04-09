@@ -18,7 +18,7 @@
 
 
 // 서버의 포트 번호
-#define		_SERVER_PORT_NUM_		5000
+#define		_SERVER_PORT_NUM_		1245
 // 수신 버퍼 사이즈
 #define		_BUFF_SIZE_				1024
 // 수신된 데이터의 해더 사이즈
